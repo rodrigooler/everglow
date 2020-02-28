@@ -1,0 +1,8 @@
+{
+    "name": "js-or-ts-to-rml",
+    "version": "0.1.0",
+    "dependencies": {
+        "acorn": "7.1.0"
+    },
+    "scripts": {}
+}
